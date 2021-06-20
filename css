@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_100 {
+  width: 375px;
+  height: 812px;
+  background: rgba(250,247,252,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v207_717 {
+  width: 300px;
+  height: 298px;
+  background: url("../images/v207_717.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 257px;
+  left: 37px;
+  overflow: hidden;
+}
